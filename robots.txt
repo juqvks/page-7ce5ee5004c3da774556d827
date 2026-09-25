@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://cn.qinhuangdaoai.cn/sitemap.xml
